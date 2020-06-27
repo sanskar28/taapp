@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ktjass3react/static/css/main.0d7fc3f2.chunk.css",
+    "main.js": "/ktjass3react/static/js/main.f8b2ba7b.chunk.js",
+    "main.js.map": "/ktjass3react/static/js/main.f8b2ba7b.chunk.js.map",
+    "runtime-main.js": "/ktjass3react/static/js/runtime-main.0352cd03.js",
+    "runtime-main.js.map": "/ktjass3react/static/js/runtime-main.0352cd03.js.map",
+    "static/js/2.89806b24.chunk.js": "/ktjass3react/static/js/2.89806b24.chunk.js",
+    "static/js/2.89806b24.chunk.js.map": "/ktjass3react/static/js/2.89806b24.chunk.js.map",
+    "index.html": "/ktjass3react/index.html",
+    "precache-manifest.c3dd1939c411e2dfb6237cea1465c375.js": "/ktjass3react/precache-manifest.c3dd1939c411e2dfb6237cea1465c375.js",
+    "service-worker.js": "/ktjass3react/service-worker.js",
+    "static/css/main.0d7fc3f2.chunk.css.map": "/ktjass3react/static/css/main.0d7fc3f2.chunk.css.map",
+    "static/js/2.89806b24.chunk.js.LICENSE.txt": "/ktjass3react/static/js/2.89806b24.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/ktjass3react/static/media/Bubai_Manna_(IIT_Kharagpur_main_building)-min (1)-1579328628.c4edc259.jpg",
+    "static/media/logo.png": "/ktjass3react/static/media/logo.eb990299.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0352cd03.js",
+    "static/js/2.89806b24.chunk.js",
+    "static/css/main.0d7fc3f2.chunk.css",
+    "static/js/main.f8b2ba7b.chunk.js"
+  ]
+}
